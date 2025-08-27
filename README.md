@@ -61,7 +61,7 @@ información.
 
 ## Base de datos 1: Cantidad de residuos peligrosos por tipo generados en el sector público distrital (PIGA - RESPEL)
 
-**Link:** https://oab.ambientebogota.gov.co/cantidad-de-residuos-peligrosos-por-tipo-generados-en-el-sector-publico-distrital/
+**Link:** [Residuos](https://oab.ambientebogota.gov.co/cantidad-de-residuos-peligrosos-por-tipo-generados-en-el-sector-publico-distrital/)
 
 **Fuente:** Observatorio Ambiental de Bogotá – Indicador definido en el marco del *Plan Institucional de Gestión Ambiental (PIGA)*.  
 **Frecuencia:** Anual (rezago de 180 días).  
@@ -88,7 +88,7 @@ El objetivo principal de este indicador es cuantificar y clasificar los residuos
 
 ## Base de datos 2: Emisiones totales de Gases de Efecto Invernadero (INGEI)
 
-**Link:** https://oab.ambientebogota.gov.co/emisiones-totales-de-gases-de-efecto-invernadero/
+**Link:** [Emisión de gases](https://oab.ambientebogota.gov.co/emisiones-totales-de-gases-de-efecto-invernadero/)
 
 **Fuente:** Observatorio Ambiental de Bogotá – Inventario Distrital de GEI (INGEI).  
 **Frecuencia:** Anual (rezago de 760 días).  
